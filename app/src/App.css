@@ -68,7 +68,9 @@
   background: -webkit-linear-gradient(left, #4e44ce, #35aee2);
   background-size: 200% 200%;
   animation: gradient-animation 4s ease infinite;
-  margin-left: 10px;
+  margin: 0 auto;
+  max-width: 50%;
+  width: 30%;
 }
 
 .footer-container {
